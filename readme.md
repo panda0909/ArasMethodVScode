@@ -282,6 +282,3 @@ SELECT * FROM innovator.user WHERE is_current = '1'
 6. 資安敏感操作需進行適當的權限檢查
 
 
-## 授權資訊
-
-本工具僅供內部開發使用，未經授權請勿外傳。
