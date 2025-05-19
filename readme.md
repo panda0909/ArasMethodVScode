@@ -8,7 +8,7 @@
 - 產生新的方法程式碼
 - 依據模板結構建立標準化方法
 - 提供 Aras C# API 參考文件
-
+- MCP專案參考 [panda0909/mssql_mcp_server](https://github.com/panda0909/mssql_mcp_server/tree/main)
 ![範例](/Images/image1.png)
 
 ## 目錄結構
